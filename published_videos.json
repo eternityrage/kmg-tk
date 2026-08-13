@@ -286,5 +286,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-5b332cc0-659d-44aa-ab2c-1f367b37cd54 (4)_subtitled.mp4",
+        "metadata": {
+            "title": "When the Coffee Kicks In: Bestie Roast Hour at KaffeMate Bugs \u2615\ufe0f\ud83d\ude08",
+            "description": "I swear these two girls have the kind of bestie chemistry that makes even my usual order feel like a plot twist. One minute they\u2019re sipping espresso, the next they\u2019re absolutely DESTROYING (affectionately) someone\u2019s choices\u2014especially those \u201cmysterious\u201d boyfriends. The funniest part? The way they roast people like it\u2019s an Olympic sport, all while keeping it warm, chaotic, and hilarious like true coffee shop regulars do. Like if this is how you and your bestie talk! Comment funniest friend moment! And don\u2019t forget\u2014Follow KaffeMate Bugs for more coffee-fueled side-splitting conversations.",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
