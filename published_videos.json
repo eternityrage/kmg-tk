@@ -318,5 +318,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-5b332cc0-659d-44aa-ab2c-1f367b37cd54 (6)_subtitled.mp4",
+        "metadata": {
+            "title": "Two Besties, One Coffee, and a Savage Roast Session\u2014You\u2019ll Cackle from First Sip \u2615\ufe0f\ud83d\ude08",
+            "description": "I swear I can\u2019t help it\u2014I\u2019m a regular at KaffeMate Bugs and these two girls make my day with their warm, hilarious coffee-shop conversations. Today they\u2019re roasting everybody and absolutely dragging their boyfriends with the kind of truth that only comes out between sips! Like if this is how you and your bestie talk! Comment funniest friend moment! Follow KaffeMate Bugs! for more coffee chaos, cozy vibes, and savage laughs.",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
