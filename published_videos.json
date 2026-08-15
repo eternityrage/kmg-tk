@@ -366,5 +366,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-5b332cc0-659d-44aa-ab2c-1f367b37cd54_subtitled.mp4",
+        "metadata": {
+            "title": "Coffee Shop Confession: Besties Roast Their Boyfriends Like They\u2019re Brewing Extra Shots \u2615\ud83d\udd25 (KaffeMate Bugs)",
+            "description": "You know that warm, cozy coffee-shop vibe where everything tastes better and the roasting starts even faster? Watch these two girls turn their everyday coffee catch-up into a full-on roast session\u2014calling out boyfriends, side-eyeing bad decisions, and roasting people with zero mercy (but maximum laughs). I\u2019m just here as the resident regular, sipping my drink like, \u201cYep\u2026 that\u2019s exactly what my bestie would say.\u201d Like if this is how you and your bestie talk! Comment funniest friend moment! Follow KaffeMate Bugs!",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
