@@ -558,5 +558,21 @@
             },
             "recycled": false
         }
+    },
+    {
+        "video_name": "grok-video-5b332cc0-659d-44aa-ab2c-1f367b37cd54 (10)_subtitled.mp4",
+        "metadata": {
+            "title": "Caf\u00e9 Roasts, Bestie Chaos & Boyfriend Expos\u00e9\u2014KaffeMate Bugs Is Back \u2615\ufe0f\ud83d\ude08",
+            "description": "Y\u2019all\u2026 I swear I\u2019ve heard this exact energy at KaffeMate Bugs\u2014two besties, zero filter, and coffee that somehow fuels the roast \ud83d\ude02\u2615\ufe0f They\u2019re going back and forth like it\u2019s a sport, dragging boyfriends and \u201calmost close\u201d situations with the funniest takes ever. I\u2019m just sitting here like: same, girls, same. Like if this is how you and your bestie talk! Comment funniest friend moment! Follow KaffeMate Bugs!",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
