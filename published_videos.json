@@ -702,5 +702,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-5b332cc0-659d-44aa-ab2c-1f367b37cd54 (13)_subtitled.mp4",
+        "metadata": {
+            "title": "Two Besties, One Coffee, and a Full Roast Session \u2615\ud83d\udd25 | KaffeMate Bugs",
+            "description": "I swear, these two girls are the only people who roast like they\u2019re ordering espresso\u2014casually, confidently, and with absolutely no mercy. The way they go back-and-forth over coffee while calling out boyfriends (and everyone else) had me choking on my own drink. Like if this is how you and your bestie talk! Comment funniest friend moment! Follow KaffeMate Bugs! for more chaotic coffee-shop conversations that feel way too real.",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
