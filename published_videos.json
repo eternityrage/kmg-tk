@@ -718,5 +718,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-5b332cc0-659d-44aa-ab2c-1f367b37cd54 (10)_subtitled.mp4",
+        "metadata": {
+            "title": "Sip, Roast, Repeat \u2615\ufe0f\ud83d\udd25 Two Besties vs. Boyfriend Logic\u2014KaffeMate Bugs Never Miss!",
+            "description": "I swear these two girls are my kind of regular\u2014one sip of coffee and suddenly everyone\u2019s getting roasted like it\u2019s a team sport. Their conversations are so real, so messy, and so hilarious that I\u2019m clutching my drink like, \u201cokay\u2026 they said that?!\u201d If you and your bestie talk like this, hit LIKE because this is exactly the energy. Comment the funniest friend moment you\u2019ve ever had\u2014let me know whose roast was the most savage. Follow KaffeMate Bugs for more coffee-fueled chaos and unfiltered bestie banter!",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
