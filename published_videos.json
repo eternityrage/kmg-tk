@@ -926,5 +926,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-5b332cc0-659d-44aa-ab2c-1f367b37cd54 (3)_subtitled.mp4",
+        "metadata": {
+            "title": "Bean There, Roasted That \u2615\ufe0f\ud83d\ude08 KaffeMate Bugs Turn Coffee Chats Into Savage Therapy",
+            "description": "Okay y\u2019all, I come to KaffeMate for the coffee and stay for these two\u2019s chaos\u2014because their conversations are the kind of \u201cbestie talk\u201d that hits different. They\u2019re roasting boyfriends like it\u2019s an espresso shot: quick, spicy, and absolutely necessary. The laughs are so real you\u2019ll swear you\u2019re sitting right there at the table, judging life choices over foam. Like if this is how you and your bestie talk! Comment funniest friend moment! Follow KaffeMate Bugs!",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
