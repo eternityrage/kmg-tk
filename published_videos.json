@@ -958,5 +958,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-5b332cc0-659d-44aa-ab2c-1f367b37cd54 (5)_subtitled.mp4",
+        "metadata": {
+            "title": "When the Coffee Hits and the Roast Starts \u2615\ud83d\udd25\u2014Bestie Chaos at KaffeMate Bugs!",
+            "description": "I swear these two girls are the reason I come to KaffeMate Bugs\u2014one minute we\u2019re sipping lattes, the next minute we\u2019re roasting everybody and their boyfriends like it\u2019s a sport. Their \u201cfriendly conversation\u201d is 90% jokes, 10% savage truth, and somehow it always has me cackling into my cup. Like if this is how you and your bestie talk! Comment funniest friend moment! Follow KaffeMate Bugs for more warm laughs, bold roasts, and coffee-fueled chaos.",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
