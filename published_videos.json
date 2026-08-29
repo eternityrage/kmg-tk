@@ -990,5 +990,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-5b332cc0-659d-44aa-ab2c-1f367b37cd54_subtitled.mp4",
+        "metadata": {
+            "title": "Sip, Snark, Repeat \u2615\ufe0f Two Besties Roasting Boyfriends Like It\u2019s Their Coffee Order",
+            "description": "I swear these two are my spirit animal\u2014every time I hear their banter over a fresh cup at KaffeMate Bugs, I\u2019m laughing like I\u2019ve been personally roasted (respectfully). One minute they\u2019re talking regular life, the next they\u2019re dragging boyfriends with that calm \u201cwe\u2019re just being honest\u201d energy that only besties can pull off. Like if this is how you and your bestie talk! Comment funniest friend moment! Follow KaffeMate Bugs! for more coffee-fueled chaos, real laughs, and savage roasted moments you\u2019ll want to replay.",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
