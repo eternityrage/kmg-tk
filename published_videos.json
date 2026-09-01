@@ -1134,5 +1134,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-5b332cc0-659d-44aa-ab2c-1f367b37cd54 (15)_subtitled.mp4",
+        "metadata": {
+            "title": "Sip, Roast, Repeat \u2615\ufe0f\ud83d\udd25 KaffeMate Bugs\u2019 Bestie Talk That\u2019ll Have You Cackling",
+            "description": "I swear I come here for the coffee, but I stay for these two\u2014because their bestie banter is pure chaos in the best way. Two girls, zero mercy, and a whole lot of roasting their boyfriends while the barista just lets the conversation cook. If you\u2019ve ever stared into your cup like \u201cwhy is he like that?\u201d this one\u2019s for you\u2014like, the accuracy is wild. Like if this is how you and your bestie talk! Comment funniest friend moment! Follow KaffeMate Bugs!",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
