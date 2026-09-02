@@ -1182,5 +1182,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-5b332cc0-659d-44aa-ab2c-1f367b37cd54_subtitled.mp4",
+        "metadata": {
+            "title": "Two Girls, One Coffee Pot, and a Full-Time Roast Session \u2615\ud83d\udd25 #KaffeMateBugs",
+            "description": "I swear these two are the reason I keep coming back\u2014if coffee could talk, it would sound exactly like this! In today\u2019s episode, they\u2019re sipping, side-eyeing, and absolutely roasting their boyfriends and random people with the kind of humor only a real bestie duo can pull off. Like if this is how you and your bestie talk! Comment funniest friend moment! Follow KaffeMate Bugs! for more caffeine-fueled laughs you\u2019ll be quoting all week.",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
