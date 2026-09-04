@@ -1294,5 +1294,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-5b332cc0-659d-44aa-ab2c-1f367b37cd54 (14)_subtitled.mp4",
+        "metadata": {
+            "title": "These Two Girls Are the Funniest Duo on the Internet",
+            "description": "There's nothing more entertaining than two best friends with zero filter and a lot of opinions. This kaffemate bugs duo brings the most hilarious, unapologetically honest comedy to your feed. From roasting terrible boyfriends to calling out life's most absurd moments, these two don't hold back. The natural chemistry, perfectly timed jokes, and savage observations - this is comedy at its most authentic.",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
