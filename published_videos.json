@@ -1710,5 +1710,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-5b332cc0-659d-44aa-ab2c-1f367b37cd54_subtitled.mp4",
+        "metadata": {
+            "title": "Two Besties, One Coffee, and a Battlefield of Savage Roast\u2014KaffeMate Bugs Never Miss \u2615\ud83d\udd25",
+            "description": "Okay fellow KaffeMate regulars\u2026 this is *exactly* how me and my bestie talk\u2014zero filter, all laughs, and absolutely no mercy for boyfriends who \u201cforget\u201d things. In this episode, two girls are roasting folks left and right over coffee, turning every sip into a funny little takedown. Like if this is how you and your bestie talk! Comment funniest friend moment! Follow KaffeMate Bugs! for more warm, chaotic, hilarious coffee-shop conversations.",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
