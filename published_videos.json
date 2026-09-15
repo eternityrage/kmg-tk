@@ -1822,5 +1822,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-5b332cc0-659d-44aa-ab2c-1f367b37cd54 (8)_subtitled.mp4",
+        "metadata": {
+            "title": "Two Besties, One Coffee, Total Roasting Chaos \u2615\ud83d\ude08 | KaffeMate Bugs",
+            "description": "Okayyy if you\u2019ve ever sat in a coffee shop and heard your soul get roasted by two besties over espresso\u2014welcome home. These two girls are sipping coffee like it\u2019s therapy while dragging boyfriends and random people with the funniest, most savage banter I\u2019ve ever heard. I\u2019m telling you, the way they switch from sweet to savage is pure KaffeMate Bugs energy. Like if this is how you and your bestie talk! Comment funniest friend moment! Follow KaffeMate Bugs!",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
