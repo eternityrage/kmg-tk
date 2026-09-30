@@ -2542,5 +2542,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-5b332cc0-659d-44aa-ab2c-1f367b37cd54 (5)_subtitled.mp4",
+        "metadata": {
+            "title": "Two Girls, One Coffee, and the Funniest Roast Session Ever \u2615\ud83d\udd25 (KaffeMate Bugs)",
+            "description": "Okay y\u2019all, I\u2019m a proud regular at KaffeMate Bugs and these two girls *never* miss\u2014one minute they\u2019re sipping coffee, the next they\u2019re roasting people and boyfriends like it\u2019s a sport. Their conversation is warm, chaotic, and oddly comforting, like your bestie came in for a caffeine-fueled therapy session with extra sass. Like if this is how you and your bestie talk! Comment funniest friend moment! Follow KaffeMate Bugs! for more hilarious coffee-shop chaos.",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
