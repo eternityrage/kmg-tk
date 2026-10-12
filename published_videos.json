@@ -3134,5 +3134,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-5b332cc0-659d-44aa-ab2c-1f367b37cd54 (8)_subtitled.mp4",
+        "metadata": {
+            "title": "Two Besties, One Coffee, Maximum Roasting \ud83c\udf75\ud83d\udd25 | KaffeMate Bugs Comedy",
+            "description": "Okay y\u2019all, I\u2019m just a humble coffee shop regular who witnessed *this* chaotic masterpiece\u2014two girls, one cup of coffee, and the kind of funny, no-holds-barred roasting I can\u2019t stop replaying. Their conversations about people and boyfriends are sending me into orbit (politely\u2026 mostly). Like if this is how you and your bestie talk! Comment funniest friend moment! And don\u2019t forget to Follow KaffeMate Bugs for more warm chaos, sips, and savage laughs\u2014because this is exactly what my regular coffee breaks are missing. \u2615\ufe0f\ud83d\ude02",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
