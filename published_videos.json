@@ -3230,5 +3230,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-5b332cc0-659d-44aa-ab2c-1f367b37cd54 (12)_subtitled.mp4",
+        "metadata": {
+            "title": "The Coffee Talk That Roasted Everyone\u2014Including Their Boyfriends \u2615\ufe0f\ud83d\udd25 (KaffeMate Bugs!)",
+            "description": "Every time I swing by KaffeMate Bugs, I know I\u2019m getting laughs with my coffee\u2014especially when the girls start talking like they\u2019ve got front-row seats to the chaos. This episode is all bestie banter, fearless roasting, and hilarious boyfriend side-eyes stirred up right into their cups. Like if this is how you and your bestie talk! Comment funniest friend moment! Follow KaffeMate Bugs! and come sip the savage with me\u2014because this conversation is pure warmth, humor, and \u201cwait\u2026 did she just say that?\u201d",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
