@@ -3310,5 +3310,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-5b332cc0-659d-44aa-ab2c-1f367b37cd54 (12)_subtitled.mp4",
+        "metadata": {
+            "title": "Coffee Confessions & Bestie Roasts: Two Girls Spilling the Tea\u2014One Sip at a Time (KaffeMate Bugs \ud83c\udf75\ud83d\ude02)",
+            "description": "As a loyal KaffeMate regular, I swear these two girls have the exact kind of roast energy that makes your coffee taste funnier\u2014and somehow sweeter. Today they\u2019re roasting people and (respectfully?) dragging their boyfriends through the coffee shop like it\u2019s an open mic for bad decisions. The conversation is so real, so chaotic, and so painfully relatable you\u2019ll be laughing before you even take your first sip. Like if this is how you and your bestie talk! Comment funniest friend moment! Follow KaffeMate Bugs!",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
