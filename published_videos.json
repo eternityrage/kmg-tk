@@ -3694,5 +3694,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-5b332cc0-659d-44aa-ab2c-1f367b37cd54 (1)_subtitled.mp4",
+        "metadata": {
+            "title": "Two Besties, One Coffee, Zero Filter\u2014Their Savage Roast Session Is EVERYTHING \u2615\ufe0f\ud83d\udd25",
+            "description": "I swear every time these two walk in, my coffee tastes better and my day gets wilder. Watching them roast their friends (and *those* boyfriends) over steaming cups is pure chaos\u2014like, how do they roast that hard and still sip like it\u2019s a spa day? Like if this is how you and your bestie talk! Comment funniest friend moment! Follow KaffeMate Bugs! for more unfiltered coffee-shop banter that\u2019ll have you cackling before your sip even hits.",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
