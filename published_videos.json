@@ -3726,5 +3726,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-5b332cc0-659d-44aa-ab2c-1f367b37cd54 (2)_subtitled.mp4",
+        "metadata": {
+            "title": "Two Besties, One Coffee, and a Roast So Savage It Needs a Napkin \u2014 KaffeMate Bugs Episode",
+            "description": "I swear, every time these two girls pull up at the counter, it\u2019s like my own group chat got a microphone\u2014except funnier and way more savage. They\u2019re sipping coffee, having the most relatable \u201cwhy are men like this?\u201d conversations, and roasting boyfriends like it\u2019s their part-time job. If you\u2019ve ever stared at your cup thinking, \u201cMy bestie would say this EXACT thing,\u201d then congrats\u2014you get it. Like if this is how you and your bestie talk! Comment funniest friend moment! Follow KaffeMate Bugs!",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
