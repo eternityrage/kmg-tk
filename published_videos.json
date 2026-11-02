@@ -4126,5 +4126,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-5b332cc0-659d-44aa-ab2c-1f367b37cd54 (10)_subtitled.mp4",
+        "metadata": {
+            "title": "Sipping Truths & Toasting Boyfriends \u2615\ufe0f\ud83d\udcac\u2014When KaffeMate Bugs Roasts Like It\u2019s a Sport!",
+            "description": "Every time I come to KaffeMate Bugs, I swear I\u2019m not just ordering coffee\u2014I\u2019m ordering a whole comedy show. These two girls sit down, chat like besties with no filter, and roast boyfriends like they\u2019re running a \u201cwho hurt you?\u201d contest\u2026 over perfectly brewed cups. Like if this is how you and your bestie talk! Comment funniest friend moment! Follow KaffeMate Bugs! and come catch the laughs\u2014because this one\u2019s definitely viral-worthy.",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
