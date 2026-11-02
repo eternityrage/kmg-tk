@@ -4110,5 +4110,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-5b332cc0-659d-44aa-ab2c-1f367b37cd54 (1)_subtitled.mp4",
+        "metadata": {
+            "title": "This Coffee Roast Is So Relatable It Should Come With a Warning Label \u2615\ud83d\ude08",
+            "description": "I swear every time I pull up at KaffeMate Bugs, these two girls are serving the kind of honest, hilarious roasting that makes my drink taste better. The way they clown their friends\u2019 choices\u2014and those mysterious \u201cboyfriend decisions\u201d\u2014over coffee is basically my group chat in real life. Like if this is how you and your bestie talk! Comment funniest friend moment and tell me who you\u2019re roasting right now\u2014because I\u2019m taking notes. Follow KaffeMate Bugs for more laughs, savage sips, and side-splitting coffee-shop conversations!",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
