@@ -4990,5 +4990,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-5b332cc0-659d-44aa-ab2c-1f367b37cd54_subtitled.mp4",
+        "metadata": {
+            "title": "Two Besties, One Coffee, Maximum Savagery \u2615\ufe0f\ud83d\udd25 (Roasting Boyfriends Like It\u2019s a Sport)",
+            "description": "I swear, every time I come to KaffeMate, these two girls are behind the counter in spirit\u2014because their conversation is wilder than my last double espresso. They\u2019re sipping coffee, roasting people, dragging boyfriends, and somehow making every \u201cexcuse\u201d sound like a felony. Like if this is how you and your bestie talk! Comment funniest friend moment! Follow KaffeMate Bugs! for more unfiltered, chaotic, coffee-fueled comedy that has you laughing before you even finish your first sip.",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
